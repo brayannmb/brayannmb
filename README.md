@@ -1,4 +1,4 @@
-- 👱 Hi, I’m @brayannmb
+- 👱 Hi, I’m Brayan Monserrah
 - 💻 I’m interested in Python
 - 🚀 I’m currently learning Data Science
 - 📣 I am looking to collaborate in sharing my learnings in this world of data
