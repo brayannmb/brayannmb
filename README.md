@@ -2,7 +2,7 @@
 
 - 👱 Hello world! 
 - 💻 Um mecatrônico no mundo dos dados
-- 🚀 Atualmente estou aprendendo Ciência de Dados
+- 🚀 Atualmente estou aprendendo sobre Ciência de Dados
 - 📣 Compartilho meus aprendizados através de artigos para o Medium e conteúdos diariamente para o Instagram
 - 📫 Vamos nos conectar e bater um papo nas redes! [LinkedIn](https://linkedin.com/in/brayan-bento), [Medium](https://medium.com/@brayan.bento1) e [Instagram](https://www.instagram.com/brayannmb/)
 
