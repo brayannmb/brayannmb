@@ -14,7 +14,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Últimas Publicações:
+* [Aplicando Data Storytelling com a Biblioteca Matplotlib](https://medium.com/data-hackers/aplicando-data-storytelling-com-a-biblioteca-matplotlib-1a495ac69f37)
 * [Crie seu Portfólio Para Data Science](https://medium.com/data-hackers/crie-o-seu-portf%C3%B3lio-para-data-science-8e6525051cb8)
 * [Extraindo Informações dos Dados no Power Query](https://brayan-monserrah.medium.com/extraindo-informa%C3%A7%C3%B5es-dos-dados-no-power-query-42918569531a)
-* [Extraindo Informações de Arquivos PDF com Python](https://brayan-monserrah.medium.com/extraindo-informa%C3%A7%C3%B5es-de-arquivos-pdf-411b2c55c722)
 
