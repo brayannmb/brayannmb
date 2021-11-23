@@ -4,7 +4,7 @@
 - 💻 Um mecatrônico no mundo dos dados
 - 🚀 Atualmente estou aprendendo sobre Ciência de Dados
 - 📣 Compartilho meus aprendizados através de artigos para o Medium e conteúdos diariamente para o Instagram
-- 📫 Vamos nos conectar e bater um papo nas redes! [LinkedIn](https://linkedin.com/in/brayan-bento), [Medium](https://medium.com/@brayan.bento1) e [Instagram](https://www.instagram.com/brayannmb/)
+- 📫 Vamos nos conectar e bater um papo nas redes! [LinkedIn](https://linkedin.com/in/brayan-bento), [Medium](https://brayan-monserrah.medium.com/) e [Instagram](https://www.instagram.com/brayannmb/)
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://brayan-monserrah.medium.com/)](https://medium.com/brayan-monserrah)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2a6fdb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-bento/)](https://www.linkedin.com/in/brayan-bento/) 
